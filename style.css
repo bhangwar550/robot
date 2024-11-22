@@ -158,17 +158,21 @@ border-radius: 45px;
     margin-top: 30px;
     padding: 10px;
     margin-left: 40%;
+    border: 2px solid cadetblue;
     background-color: rgb(145, 145, 226);
     color: white;
 }
 /* END */
 /* footor start */
+.footor_section{
+    padding: 30px;
+}
 .footor{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 20px;
+    padding: 30px;
     background-color: gainsboro;
 }
 .footor h1{
